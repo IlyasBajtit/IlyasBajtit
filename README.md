@@ -30,7 +30,8 @@ Mon objectif premier est de décrocher ma première expérience professionnelle 
 
 ## Stats 
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={IlyasBajtit}&theme={github_dark}
+<img src="https://github-readme-stats.vercel.app/api?username=IlyasBajtit&theme=ambient_gradient&show=reviews&hide=contribs,issues&show_icons=true" /img>
+</div>
 
 ## Contact
 
