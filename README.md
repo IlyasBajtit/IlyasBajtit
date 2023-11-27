@@ -35,7 +35,7 @@ Mon objectif premier est de décrocher ma première expérience professionnelle 
 
 ## Contact
 
-🔗 LinkedIn : [Profil LinkedIn]
+🔗 LinkedIn : linkedin.com/in/ilyas-bajtit-7230542a2
 
 
 Si vous cherchez un développeur non seulement compétent mais également fortement motivé, je suis prêt à relever de nouveaux défis et à contribuer de manière significative à des projets innovants.
