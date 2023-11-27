@@ -30,8 +30,8 @@ Mon objectif premier est de décrocher ma première expérience professionnelle 
 
 ## Stats 
 
-<img src="https://github-readme-stats.vercel.app/api?username=IlyasBajtit&theme=ambient_gradient&show=reviews&hide=contribs,issues&show_icons=true" /img>
-</div>
+![logo](https://github-readme-stats.vercel.app/api?username=IlyasBajtit&theme=ambient_gradient&show=reviews&hide=contribs,issues&show_icons=true)
+
 
 ## Contact
 
