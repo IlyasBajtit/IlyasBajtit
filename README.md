@@ -28,6 +28,10 @@ J'ai une solide base en Java script, C# et l'environement .NET acquise grâce à
 
 Mon objectif premier est de décrocher ma première expérience professionnelle en tant que développeur backend. Ma motivation profonde, ma volonté d'apprendre et mon enthousiasme inépuisable me propulsent vers des défis stimulants.
 
+## Stats 
+
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={IlyasBajtit}&theme={github_dark}
+
 ## Contact
 
 🔗 LinkedIn : [Profil LinkedIn]
