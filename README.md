@@ -22,7 +22,7 @@ Salut ! Bienvenue sur mon profil GitHub. Je suis un passionné de codage et de r
 
 ## Apprentissage et Formation
 
-J'ai une solide base en Java script, C# et l'environement .NET acquise grâce à la formation développeur C#, .NET. Ma motivation inébranlable me pousse à chercher constamment de nouvelles opportunités d'apprentissage et de perfectionnement de mes compétences.
+J'ai une solide base en Java script, C# et l'environnement .NET acquise grâce à la formation développeur C#, .NET. Ma motivation inébranlable me pousse à chercher constamment de nouvelles opportunités d'apprentissage et de perfectionnement de mes compétences.
 
 ## Objectif
 
