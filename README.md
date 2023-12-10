@@ -34,7 +34,7 @@ Mon objectif premier est de décrocher ma première expérience professionnelle 
 
 ## Contact
 
-🔗 LinkedIn : linkedin.com/in/ilyas-bajtit-7230542a2
+[🔗 LinkedIn](https://www.linkedin.com/in/ilyas-bajtit-7230542a2/)
 
 
 
