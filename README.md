@@ -19,7 +19,7 @@
 
 - 🎓 Education: I pursued a developer training program focused on C# and .NET at M2I.
 
-## Apprentissage et Formation
+## Learning and Training
 
 J'ai une solide base en Java script, C# et l'environnement .NET acquise grâce à la formation développeur C#, .NET. Ma motivation inébranlable me pousse à chercher constamment de nouvelles opportunités d'apprentissage et de perfectionnement de mes compétences.
 
