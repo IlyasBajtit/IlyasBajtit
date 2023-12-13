@@ -24,9 +24,10 @@
 I possess a strong foundation in JavaScript, C#, and the .NET environment, acquired through the Developer C#, .NET. My unwavering motivation propels me to continuously seek new learning opportunities and refine my skills.
 
 
-## Objectif
+## Objective:
 
-Mon objectif premier est de décrocher ma première expérience professionnelle en tant que développeur backend. Ma motivation profonde, ma volonté d'apprendre et mon enthousiasme inépuisable me propulsent vers des défis stimulants.
+My primary goal is to secure my first professional experience as a backend developer. Fueled by deep motivation, a strong desire to learn, and boundless enthusiasm, I am propelled towards engaging challenges in the pursuit of excellence.
+
 
 ## Stats 
 
