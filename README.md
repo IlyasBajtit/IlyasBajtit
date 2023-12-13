@@ -21,7 +21,8 @@
 
 ## Learning and Training
 
-J'ai une solide base en Java script, C# et l'environnement .NET acquise grâce à la formation développeur C#, .NET. Ma motivation inébranlable me pousse à chercher constamment de nouvelles opportunités d'apprentissage et de perfectionnement de mes compétences.
+I possess a strong foundation in JavaScript, C#, and the .NET environment, acquired through the Developer C#, .NET. My unwavering motivation propels me to continuously seek new learning opportunities and refine my skills.
+
 
 ## Objectif
 
