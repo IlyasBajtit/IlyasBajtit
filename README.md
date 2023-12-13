@@ -17,8 +17,7 @@
 ![logo](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-- 🎓 Formation : Formation développeur c#, .NET chez M2I
-
+- 🎓 Education: I pursued a developer training program focused on C# and .NET at M2I.
 
 ## Apprentissage et Formation
 
