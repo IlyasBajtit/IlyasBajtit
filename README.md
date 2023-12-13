@@ -1,5 +1,5 @@
-# Ilyas Bajtit - 🚀 Développeur Backend 
-Salut ! Bienvenue sur mon profil GitHub. Je suis un passionné de codage et de résolution de problèmes, animé par une motivation sans limites pour débuter ma carrière en tant que développeur backend.
+# Ilyas Bajtit - 🚀 Backend Developer
+## Hello! Welcome to my GitHub profile. I am a coding enthusiast and creative problem solver, driven by boundless motivation to kickstart my career as a backend developer.
 
 ## À propos de moi
 
