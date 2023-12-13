@@ -32,6 +32,7 @@ Mon objectif premier est de décrocher ma première expérience professionnelle 
 
 ![logo](https://github-readme-stats.vercel.app/api?username=IlyasBajtit&theme=ambient_gradient&show=reviews&hide=contribs,issues&show_icons=true)
 
+![logo](https://www.codewars.com/users/IlyasBajtit/badges/large)
 ## Contact
 
 [🔗 LinkedIn](https://www.linkedin.com/in/ilyas-bajtit-7230542a2/)
