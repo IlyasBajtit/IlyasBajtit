@@ -34,6 +34,9 @@ My primary goal is to secure my first professional experience as a backend devel
 ![logo](https://github-readme-stats.vercel.app/api?username=IlyasBajtit&theme=ambient_gradient&show=reviews&hide=contribs,issues&show_icons=true)
 
 ![logo](https://www.codewars.com/users/IlyasBajtit/badges/large)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IlyasBajtit&theme=dark)](https://git.io/streak-stats)
+
 ## Contact
 
 [🔗 LinkedIn](https://www.linkedin.com/in/ilyas-bajtit-7230542a2/)
