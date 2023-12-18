@@ -35,7 +35,6 @@ My primary goal is to secure my first professional experience as a backend devel
 
 ![logo](https://www.codewars.com/users/IlyasBajtit/badges/large)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IlyasBajtit&theme=dark)](https://git.io/streak-stats)
 
 ## Contact
 
