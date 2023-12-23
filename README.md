@@ -19,8 +19,6 @@
 
 - 🎓 Education: I pursued a developer training program focused on C# and .NET at M2I.
 
-- ## My project
-
 
 ## Learning and Training
 
