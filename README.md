@@ -29,7 +29,6 @@ I possess a strong foundation in JavaScript, C#, and the .NET environment, acqui
 
 My primary goal is to secure my first professional experience as a backend developer. Fueled by deep motivation, a strong desire to learn, and boundless enthusiasm, I am propelled towards engaging challenges in the pursuit of excellence.
 
-## My projects in electronics :
 
 ## Stats 
 
@@ -37,6 +36,7 @@ My primary goal is to secure my first professional experience as a backend devel
 
 ![logo](https://www.codewars.com/users/IlyasBajtit/badges/large)
 
+## My projects in electronics :
 
 ## Contact
 
