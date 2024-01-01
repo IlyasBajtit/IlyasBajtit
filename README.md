@@ -32,8 +32,7 @@ My primary goal is to secure my first professional experience as a backend devel
 
 ## Stats 
 
-![logo](https://github-readme-stats.vercel.app/api?username=IlyasBajtit&theme=ambient_gradient&show=reviews&hide=contribs,issues&show_icons=true)
- <img height="180em" src="https://github-readme-stats-zakaria-aitali.vercel.app/api/top-langs/?username=IlyasBajtit&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-zakaria-aitali.vercel.app/api/top-langs/?username=IlyasBajtit&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IlyasBajtit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 ![logo](https://www.codewars.com/users/IlyasBajtit/badges/large)
