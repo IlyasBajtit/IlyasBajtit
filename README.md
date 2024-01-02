@@ -19,9 +19,7 @@
 
 - 🎓 Education: I pursued a developer training program focused on C# and .NET at M2I.
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasBajtit-Cn&layout=compact&langs_count=7&theme=algolia" alt="Top Langs"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IlyasBajtit-Cn&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 ## Learning and Training
 
 I possess a strong foundation in JavaScript, C#, and the .NET environment, acquired through the Developer C#, .NET. My unwavering motivation propels me to continuously seek new learning opportunities and refine my skills.
@@ -38,6 +36,9 @@ My primary goal is to secure my first professional experience as a backend devel
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IlyasBajtit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 ![logo](https://www.codewars.com/users/IlyasBajtit/badges/large)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?ILyasBajtit=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My projects in electronics :
 
