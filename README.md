@@ -17,8 +17,7 @@
 ![logo](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-- 🎓 Education: I pursued a developer training program focused on C# and .NET at M2I.
-
+- 🎓 Education: Graduated in electronics, developer training in C#,.NET, and application developer/designer training (BAC+4)
 
 ## Learning and Training
 
